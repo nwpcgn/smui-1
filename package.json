@@ -25,7 +25,7 @@
   "devDependencies": {
     "@material/theme": "^14.0.0",
     "@material/typography": "^14.0.0",
-    "@mdi/js": "^6.5.95",
+    "@mdi/js": "^7.2.96",
     "@smui/button": "^6.1.4",
     "@smui/card": "^7.0.0-beta.0",
     "@smui/data-table": "^7.0.0-beta.0",
