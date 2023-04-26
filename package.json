@@ -31,7 +31,7 @@
     "@smui/data-table": "^7.0.0-beta.0",
     "@smui/dialog": "^7.0.0-beta.0",
     "@smui/icon-button": "^6.1.4",
-    "@smui/linear-progress": "^7.0.0-beta.0",
+    "@smui/linear-progress": "^7.0.0-beta.4",
     "@smui/textfield": "^7.0.0-beta.0",
     "@smui/top-app-bar": "^6.1.4",
     "@sveltejs/adapter-vercel": "^1.0.5",
